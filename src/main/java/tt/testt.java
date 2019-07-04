@@ -1,5 +1,7 @@
 package tt;
 
+import com.sun.javafx.binding.SelectBinding;
+
 /**
  * ━━━━━━神兽出没━━━━━━
  * 　　　┏┓　　　┏┓
@@ -25,4 +27,8 @@ package tt;
  * DateTime: 2019/7/4 18:35
  */
 public class testt {
+
+    public static void main(String[] args) {
+
+    }
 }
